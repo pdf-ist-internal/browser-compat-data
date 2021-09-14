@@ -4212,6 +4212,7 @@
       "onbeforeinstallprompt": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Window/onbeforeinstallprompt",
+          "spec_url": "https://wicg.github.io/manifest-incubations/index.html#onbeforeinstallprompt-attribute",
           "support": {
             "chrome": {
               "version_added": true

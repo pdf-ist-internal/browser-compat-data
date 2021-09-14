@@ -3,6 +3,7 @@
     "BeforeInstallPromptEvent": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/BeforeInstallPromptEvent",
+        "spec_url": "https://wicg.github.io/manifest-incubations/index.html#beforeinstallpromptevent-interface",
         "support": {
           "chrome": {
             "version_added": "45"
@@ -50,6 +51,7 @@
       "BeforeInstallPromptEvent": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/BeforeInstallPromptEvent/BeforeInstallPromptEvent",
+          "spec_url": "https://wicg.github.io/manifest-incubations/index.html#dom-beforeinstallpromptevent-constructor",
           "description": "<code>BeforeInstallPromptEvent()</code> constructor",
           "support": {
             "chrome": {
@@ -147,6 +149,7 @@
       "prompt": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/BeforeInstallPromptEvent/prompt",
+          "spec_url": "https://wicg.github.io/manifest-incubations/index.html#dom-beforeinstallpromptevent-prompt",
           "support": {
             "chrome": {
               "version_added": "45"
